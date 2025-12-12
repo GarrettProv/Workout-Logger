@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE = "https://workout-logger-tnf8.onrender.com";
+const API_BASE = "https://workout-logger-tnf8.onrender.com/api";
 
 export const api = axios.create({
   baseURL: API_BASE,
