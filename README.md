@@ -136,22 +136,20 @@ MongoDB Atlas is used for cloud database hosting.
 Video walkthrough link:  
 https://drive.google.com/file/d/1759inmdLHmvpE11v7xHgnHDOPcNWMc40/view?usp=sharing
 
-The video includes an overview of the app, a demonstration of core features, an explanation of authentication, and a discussion of a technical challenge encountered during development.
+This video includes a walkthrough of the app showing its features.
 
 ---
 
 ## 🧠 Reflection
 
-The hardest part of this project was deployment and environment configuration. Debugging MongoDB connection issues, understanding how environment variables behave differently in production, and resolving CORS and authentication issues required careful troubleshooting.
+The hardest part of this project was deployment and environment configuration, Debugging MongoDB connection issues and resolving CORS and authentication issues.
 
 I am most proud of successfully deploying a fully functional full-stack application with authentication and persistent data storage. Seeing the app work end-to-end in production was very rewarding.
 
 If I were to do this project again, I would deploy earlier and plan the UI structure more thoroughly before writing code. This would help reduce debugging time later in the process.
 
-Based on feedback from the 12/5 check-in gallery, I reduced the project scope and focused on stabilizing core features such as authentication, CRUD functionality, and deployment instead of adding additional features.
-
 ---
 
 ## 🤖 Acknowledgments / AI Usage Disclosure
 
-AI tools (ChatGPT) were used to help troubleshoot deployment issues, debug MongoDB connection errors, clarify authentication logic, and assist with documentation wording. All generated code and suggestions were reviewed, understood, and implemented by me.
+ChatGPT was used when I was having issues deploying. I used it to read through the Logs of render to help me sort through them and find the problem. I also used chat gpt to help me make my ReadME look more presentatable in markup but only used it for the formating.
